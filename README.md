@@ -1,4 +1,4 @@
 # Javis Research Project
 ======
 # Python Research
-@[text](#Jarvis.md)
+@[Python research for building Jarvis](/Jarvis.md)
