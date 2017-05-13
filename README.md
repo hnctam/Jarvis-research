@@ -1,4 +1,7 @@
 # Javis Research Project
 ======
 # Python Research
-@[Python research for building Jarvis](/Jarvis.md)
+
+| Information                                     | Link                  |
+| ------------------------------------------------|:----------------------|
+| Python study for building Jarvis | [Python research for building Jarvis](/Jarvis.md) |
